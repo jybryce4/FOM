@@ -1,3 +1,5 @@
+ WILL FIX FORMATTING LATER.
+
 Fate of Mystria - The CLI RPG: Documentation 
 
 This file defines the specifications for this project: FOM for Windows cmd-prompt.
