@@ -1,0 +1,15 @@
++++Fate of Mystria - The CLI RPG +++
+by James Bryce
+
+This file defines the specifications for this project: FOM for Windows cmd-prompt.
+
+General Overview:
+Fate of Mystria is a game that will be played in the Windows Command Prompt.
+
+
+Core Components Needed:
+
+Algorithms & Design:
+
+File by file breakdown:
+
